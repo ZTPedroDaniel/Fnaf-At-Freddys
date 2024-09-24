@@ -1,6 +1,7 @@
 .conteudo{
     background-image: url(/fazbear\ 1.png);
     display: flex;
+    font-family: "Comic Sans MS";
 }
 .cartao{
     background: rgb(6,24,45);
