@@ -5,4 +5,5 @@
 .cartao{
     background-color: red;
     margin: 1rem 1rem;
+    flex-grow: 1;
 }
