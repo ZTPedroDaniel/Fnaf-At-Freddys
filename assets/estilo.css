@@ -15,11 +15,13 @@
 .cartao--conteudo{
     background: rgb(6,24,45);
     background: linear-gradient(180deg, rgba(6,24,45,1) 0%, rgba(1,6,12,1) 100%);
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao:hover .cartao--conteudo{
     background-color: red;
-    transform: rotateY(180deg)
+    transform: rotateY(180deg);
 }
 
 .cartao p{
