@@ -12,6 +12,10 @@
     flex-basis: calc(33% - 6rem);
     text-align: center;
 }
+.cartao:hover{
+    background-color: red;
+}
+
 .cartao p{
     font-size: 40px;
     margin-top: 1rem;
