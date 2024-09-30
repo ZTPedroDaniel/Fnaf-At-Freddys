@@ -28,6 +28,10 @@
     backface-visibility: hidden;
 }
 
+.cartao--resposta{
+    transform: rotateY(180deg);
+}
+
 .cartao p{
     font-size: 40px;
     margin-top: 1rem;
