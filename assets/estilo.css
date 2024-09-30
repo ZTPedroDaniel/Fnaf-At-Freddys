@@ -17,8 +17,9 @@
     background: linear-gradient(180deg, rgba(6,24,45,1) 0%, rgba(1,6,12,1) 100%);
 }
 
-.cartao:hover{
+.cartao:hover .cartao--conteudo{
     background-color: red;
+    transform: rotateY(180deg)
 }
 
 .cartao p{
