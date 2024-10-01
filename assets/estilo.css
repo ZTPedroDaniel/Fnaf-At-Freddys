@@ -1,3 +1,7 @@
+.body{
+    text-align: center;
+}
+
 .conteudo{
     background-image: url(/fazbear\ 1.png);
     display: flex;
