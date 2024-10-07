@@ -1,5 +1,5 @@
 function criaCartao(pergunta, resposta){
-    console.log("testando")
+    console.log(perguntata,resposta)
 }
 
 criaCartao(1,2)
