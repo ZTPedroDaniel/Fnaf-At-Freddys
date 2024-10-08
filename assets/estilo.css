@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-.conteudo{
+#conteudo{
     background-image: url(/fazbear\ 1.png);
     display: flex;
     font-family: "Comic Sans MS";

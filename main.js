@@ -1,5 +1,3 @@
 function criaCartao(pergunta, resposta){
-    console.log(perguntata,resposta)
+    let
 }
-
-criaCartao(1,2)
