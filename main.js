@@ -5,11 +5,10 @@ function criaCartao(pergunta, resposta){
 
     cartao.innerHTML = `
         <div class="cartao--conteudo">
-           <div class="cartao--pergunta"><p>Quais são os principais animatronics?</p></div>
-           <div class="cartao--resposta"><p>Freddy, Bonnie, Chica e Foxy</p></div>
+           <div class="cartao--pergunta"><p>${pergunta}</p></div>
+           <div class="cartao--resposta"><p>${resposta}</p></div>
         </div>
     `
-
     console.log()
 
 }
