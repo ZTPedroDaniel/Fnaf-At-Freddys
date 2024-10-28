@@ -10,6 +10,16 @@ function criaCartao(pergunta, resposta){
         </div>
     `
     console.log()
+    conteudo.appendChild(cartao)
+
+    let respostaEstaVisivel = false
+
+    function viraCartao(){
+        respostaEstaVisivel = !respostaEstaVisivel
+        cartao.classList.toggle('active', respostaEstaVisivel)
+
+    }
+    cartao.addEventListener('click', console.log('clicando'))
 
 }
 
