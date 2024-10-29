@@ -10,7 +10,6 @@ function criaCartao(pergunta, resposta){
         </div>
     `
     console.log()
-    conteudo.appendChild(cartao)
 
     let respostaEstaVisivel = false
 
@@ -20,6 +19,8 @@ function criaCartao(pergunta, resposta){
 
     }
     cartao.addEventListener('click', console.log('clicando'))
+
+    conteudo.appendChild(cartao)
 
 }
 
