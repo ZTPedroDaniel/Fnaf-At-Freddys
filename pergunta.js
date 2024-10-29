@@ -19,6 +19,6 @@ criaCartao(
     "Ligue para o numero 000-1987-83"
 )
 criaCartao(
-    "O que fazer se meu filho desaparecer?,
+    "O que fazer se meu filho desaparecer?",
     "A Fazbear Entreteriments™ não se responsabiliza por objetos ou crianças desaparecidas nos nossos estabelecimentos."
 )
