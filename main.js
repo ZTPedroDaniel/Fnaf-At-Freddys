@@ -9,7 +9,7 @@ function criaCartao(pergunta, resposta){
            <div class="cartao--resposta"><p>${resposta}</p></div>
         </div>
     `
-    console.log()
+    console.log(cartao)
 
     let respostaEstaVisivel = false
 
