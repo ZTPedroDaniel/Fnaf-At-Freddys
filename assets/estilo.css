@@ -27,7 +27,7 @@
     transition: transform 300ms ease-in-out;
 }
 
-.cartao:hover .cartao--conteudo{
+.cartao.active .cartao--conteudo{
     background-color: red;
     transform: rotateY(180deg);
 }
