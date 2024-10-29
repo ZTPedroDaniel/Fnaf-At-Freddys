@@ -18,7 +18,7 @@ function criaCartao(pergunta, resposta){
         cartao.classList.toggle('active', respostaEstaVisivel)
 
     }
-    cartao.addEventListener('click', console.log('clicando'))
+    cartao.addEventListener('click', viraCartao)
 
     conteudo.appendChild(cartao)
 
